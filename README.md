@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaime Barrera</h1>
-<h3 align="center">I am a software development student at Campuslands. I have worked with Python, HTML, and CSS, and I have also developed skills in areas such as PSeInt, console-level coding, and agile methodologies like Scrum. Additionally, I have strengthened my soft skills and English proficiency. I am passionate about learning and exploring new technologies and am always looking for opportunities to apply my knowledge in interesting projects. Take a look at my repositories and feel free to contact me for collaboration!</h3>
+<h3>I am a software development student at Campuslands. I have worked with Python, HTML, and CSS, and I have also developed skills in areas such as PSeInt, console-level coding, and agile methodologies like Scrum. Additionally, I have strengthened my soft skills and English proficiency. I am passionate about learning and exploring new technologies and am always looking for opportunities to apply my knowledge in interesting projects. Take a look at my repositories and feel free to contact me for collaboration!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimebarreras&label=Profile%20views&color=0e75b6&style=flat" alt="jaimebarreras" /> </p>
 

@@ -1,26 +1,18 @@
-<h1 align="center">Hi 👋, I'm Jaime Barrera</h1>
-<h3>I am a software development student at Campuslands. I have worked with Python, HTML, and CSS, and I have also developed skills in areas such as PSeInt, console-level coding, and agile methodologies like Scrum. Additionally, I have strengthened my soft skills and English proficiency. I am passionate about learning and exploring new technologies and am always looking for opportunities to apply my knowledge in interesting projects. Take a look at my repositories and feel free to contact me for collaboration!</h3>
+# 💫 About Me:
+I am a software development student at Campuslands. I have worked with Python, HTML, and CSS, and I have also developed skills in areas such as PSeInt, console-level coding, and agile methodologies like Scrum. Additionally, I have strengthened my soft skills and English proficiency. I am passionate about learning and exploring new technologies and am always looking for opportunities to apply my knowledge in interesting projects. Take a look at my repositories and feel free to contact me for collaboration!<br><br>🌱 I’m currently learning Github, English and JavaScript<br>📫 How to reach me Jaenba10@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimebarreras&label=Profile%20views&color=0e75b6&style=flat" alt="jaimebarreras" /> </p>
 
-- 🌱 I’m currently learning **Github, English and JavaScript**
-- 📫 How to reach me **Jaenba10@gmail.com**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jebs10) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jaime.barrera.737/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaime_barrera10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JEBS1010) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jebs1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jebs1010" height="30" width="40" /></a>
-<a href="https://fb.com/jaime barrea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaime barrea" height="30" width="40" /></a>
-<a href="https://instagram.com/jaime_barrera10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaime_barrera10" height="30" width="40" /></a>
-<a href="https://discord.gg/jebs10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jebs10" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JaimeBarreraS&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JaimeBarreraS&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeBarreraS&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=JaimeBarreraS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![JaimeBarreraS's Stats](https://github-readme-stats.vercel.app/api?username=JaimeBarreraS&theme=radical&show_icons=true&hide_border=true&count_private=false)
-![JaimeBarreraS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaimeBarreraS&theme=radical&hide_border=true)
-![JaimeBarreraS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeBarreraS&theme=radical&show_icons=true&hide_border=true&layout=compact)
-
-<img src="https://raw.githubusercontent.com/JaimeBarreraS/JaimeBarreraS/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

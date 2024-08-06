@@ -1,4 +1,6 @@
-# 💫 About Me:
+<div align="center">
+  
+# 💫 About Me: 
 I am a software development student at Campuslands. I have worked with Python, HTML, and CSS, and I have also developed skills in areas such as PSeInt, console-level coding, and agile methodologies like Scrum. Additionally, I have strengthened my soft skills and English proficiency. I am passionate about learning and exploring new technologies and am always looking for opportunities to apply my knowledge in interesting projects. Take a look at my repositories and feel free to contact me for collaboration!<br><br>🌱 I’m currently learning Github, English and JavaScript<br>📫 How to reach me Jaenba10@gmail.com
 
 
@@ -21,3 +23,4 @@ I am a software development student at Campuslands. I have worked with Python, H
 [![](https://visitcount.itsvg.in/api?id=JaimeBarreraS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div/>

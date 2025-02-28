@@ -1,4 +1,4 @@
-![Black and Gray Modern Minimalist UI Desktop Wallpaper](https://github.com/user-attachments/assets/31ed46b3-787b-4ebd-ba87-10102508f8ec)
+
 
 <div align="center">
   
